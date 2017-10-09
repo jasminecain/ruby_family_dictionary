@@ -1,15 +1,15 @@
 # The Family Hash
 
-###Setup
+### Setup
 ```bash
 mkdir -p ~/workspace/ruby/exercises/family_hash && cd $_
 touch family_hash.rb
 ```
 
-###Docs
+### Docs
 [Ruby Hashes](http://ruby-doc.org/core-2.4.2/Hash.html)
 
-###Instructions
+### Instructions
 Define a hash that contains information about several members of your family. Use the following example as a template.
 ```bash
 my_family = {
